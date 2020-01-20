@@ -38,3 +38,12 @@ if #available(iOS 11.0, *) {
         }
 ```
 
+## Reference
+[gyb]https://www.uraimo.com/2016/02/09/a-short-swift-gyb-tutorial/
+[gyb]https://juejin.im/post/5d079e50f265da1b667bdc07
+[gyb]https://nshipster.cn/swift-gyb/
+[stencil]https://github.com/SwiftGen/StencilSwiftKit
+[SwiftGen]https://github.com/SwiftGen/SwiftGen#core-data
+[R.swift]https://qiita.com/Nick_paper/items/5aeb6fe63a96c7038857
+
+
