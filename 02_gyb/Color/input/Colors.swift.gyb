@@ -1,0 +1,33 @@
+% warning = "This file was automatically generated and should not be edited."
+// ${warning}
+
+/// extension Color Of Custom Name
+extension UIColor {
+
+
+%{
+  import json
+}%
+% with open('colors.json') as json_file:
+    % data = json.load(json_file)
+    % for row in data:
+%{
+name = row['name']
+hexString = row['color']['argb-hex']
+}%
+        % if name and hexString:
+/// ${name} (${hexString})
+open class var ${name}: UIColor{
+    get{
+        if #available(iOS 11.0, *) {
+            return UIColor(named: "${name}")!
+        } else {
+            return UIColor(hexString: "${hexString}")
+        }
+    }
+}
+        %end
+    %end
+%end
+
+}

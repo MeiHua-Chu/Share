@@ -1,0 +1,32 @@
+% warning = "This file was automatically generated and should not be edited."
+// ${warning}
+
+/// enum language
+import Foundation
+import UIKit
+class WaninLanguage{
+
+
+%{
+  import csv
+}%
+% i = 0
+% with open('字串表.csv') as csvFile:
+    % rows = csv.reader(csvFile)
+    % rows = csv.reader(csvFile, delimiter=',')
+    % for row in rows:
+%{
+name = row[3]
+}%
+    % if i <=1 :
+        %i+=1
+    %else:
+        % if name == "":
+        
+        %else :
+            public static let ${name}:String="${name}"
+        %end
+    %end
+ %end
+ 
+}

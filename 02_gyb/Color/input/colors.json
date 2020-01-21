@@ -1,0 +1,418 @@
+[
+    {
+        "name": "bg_color_normal",
+        "color": {
+            "r": 239,
+            "g": 231,
+            "b": 217,
+            "a": 1,
+            "color-hex": "#EFE7D9 100%",
+            "argb-hex": "#FFEFE7D9",
+            "css-rgba": "rgba(239,231,217,1)",
+            "ui-color": "(r:0.937 g:0.906 b:0.851 a:1.000)"
+        }
+    },
+    {
+        "name": "bg_color_terms_of_service",
+        "color": {
+            "r": 247,
+            "g": 247,
+            "b": 247,
+            "a": 1,
+            "color-hex": "#F7F7F7 100%",
+            "argb-hex": "#FFF7F7F7",
+            "css-rgba": "rgba(247,247,247,1)",
+            "ui-color": "(r:0.969 g:0.969 b:0.969 a:1.000)"
+        }
+    },
+    {
+        "name": "bg_color_top_bar",
+        "color": {
+            "r": 48,
+            "g": 68,
+            "b": 88,
+            "a": 1,
+            "color-hex": "#304458 100%",
+            "argb-hex": "#FF304458",
+            "css-rgba": "rgba(48,68,88,1)",
+            "ui-color": "(r:0.188 g:0.267 b:0.345 a:1.000)"
+        }
+    },
+    {
+        "name": "bg_color_under_bar",
+        "color": {
+            "r": 59,
+            "g": 90,
+            "b": 119,
+            "a": 1,
+            "color-hex": "#3B5A77 100%",
+            "argb-hex": "#FF3B5A77",
+            "css-rgba": "rgba(59,90,119,1)",
+            "ui-color": "(r:0.231 g:0.353 b:0.467 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_4",
+        "color": {
+            "r": 136,
+            "g": 136,
+            "b": 136,
+            "a": 1,
+            "color-hex": "#888888 100%",
+            "argb-hex": "#FF888888",
+            "css-rgba": "rgba(136,136,136,1)",
+            "ui-color": "(r:0.533 g:0.533 b:0.533 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_1",
+        "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1,
+            "color-hex": "#FFFFFF 100%",
+            "argb-hex": "#FFFFFFFF",
+            "css-rgba": "rgba(255,255,255,1)",
+            "ui-color": "(r:1.000 g:1.000 b:1.000 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_2",
+        "color": {
+            "r": 182,
+            "g": 184,
+            "b": 187,
+            "a": 1,
+            "color-hex": "#B6B8BB 100%",
+            "argb-hex": "#FFB6B8BB",
+            "css-rgba": "rgba(182,184,187,1)",
+            "ui-color": "(r:0.714 g:0.722 b:0.733 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_3",
+        "color": {
+            "r": 204,
+            "g": 204,
+            "b": 204,
+            "a": 1,
+            "color-hex": "#CCCCCC 100%",
+            "argb-hex": "#FFCCCCCC",
+            "css-rgba": "rgba(204,204,204,1)",
+            "ui-color": "(r:0.800 g:0.800 b:0.800 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_4",
+        "color": {
+            "r": 136,
+            "g": 136,
+            "b": 136,
+            "a": 1,
+            "color-hex": "#888888 100%",
+            "argb-hex": "#FF888888",
+            "css-rgba": "rgba(136,136,136,1)",
+            "ui-color": "(r:0.533 g:0.533 b:0.533 a:1.000)"
+        }
+    },
+    {
+        "name": "button_cancel_normal",
+        "color": {
+            "r": 204,
+            "g": 94,
+            "b": 80,
+            "a": 1,
+            "color-hex": "#CC5E50 100%",
+            "argb-hex": "#FFCC5E50",
+            "css-rgba": "rgba(204,94,80,1)",
+            "ui-color": "(r:0.800 g:0.369 b:0.314 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_6",
+        "color": {
+            "r": 75,
+            "g": 179,
+            "b": 245,
+            "a": 1,
+            "color-hex": "#4BB3F5 100%",
+            "argb-hex": "#FF4BB3F5",
+            "css-rgba": "rgba(75,179,245,1)",
+            "ui-color": "(r:0.294 g:0.702 b:0.961 a:1.000)"
+        }
+    },
+    {
+        "name": "progress_bar_border_color",
+        "color": {
+            "r": 50,
+            "g": 54,
+            "b": 65,
+            "a": 1,
+            "color-hex": "#323641 100%",
+            "argb-hex": "#FF323641",
+            "css-rgba": "rgba(50,54,65,1)",
+            "ui-color": "(r:0.196 g:0.212 b:0.255 a:1.000)"
+        }
+    },
+    {
+        "name": "button_other_pressed",
+        "color": {
+            "r": 24,
+            "g": 43,
+            "b": 61,
+            "a": 1,
+            "color-hex": "#182B3D 100%",
+            "argb-hex": "#FF182B3D",
+            "css-rgba": "rgba(24,43,61,1)",
+            "ui-color": "(r:0.094 g:0.169 b:0.239 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_9",
+        "color": {
+            "r": 26,
+            "g": 26,
+            "b": 26,
+            "a": 1,
+            "color-hex": "#1A1A1A 100%",
+            "argb-hex": "#FF1A1A1A",
+            "css-rgba": "rgba(26,26,26,1)",
+            "ui-color": "(r:0.102 g:0.102 b:0.102 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_10",
+        "color": {
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 1,
+            "color-hex": "#000000 100%",
+            "argb-hex": "#FF000000",
+            "css-rgba": "rgba(0,0,0,1)",
+            "ui-color": "(r:0.000 g:0.000 b:0.000 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_11",
+        "color": {
+            "r": 85,
+            "g": 85,
+            "b": 85,
+            "a": 1,
+            "color-hex": "#555555 100%",
+            "argb-hex": "#FF555555",
+            "css-rgba": "rgba(85,85,85,1)",
+            "ui-color": "(r:0.333 g:0.333 b:0.333 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_12",
+        "color": {
+            "r": 116,
+            "g": 173,
+            "b": 213,
+            "a": 1,
+            "color-hex": "#74ADD5 100%",
+            "argb-hex": "#FF74ADD5",
+            "css-rgba": "rgba(116,173,213,1)",
+            "ui-color": "(r:0.455 g:0.678 b:0.835 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_13",
+        "color": {
+            "r": 149,
+            "g": 151,
+            "b": 157,
+            "a": 1,
+            "color-hex": "#95979D 100%",
+            "argb-hex": "#FF95979D",
+            "css-rgba": "rgba(149,151,157,1)",
+            "ui-color": "(r:0.584 g:0.592 b:0.616 a:1.000)"
+        }
+    },
+    {
+        "name": "text_color_14",
+        "color": {
+            "r": 109,
+            "g": 112,
+            "b": 120,
+            "a": 1,
+            "color-hex": "#6D7078 100%",
+            "argb-hex": "#FF6D7078",
+            "css-rgba": "rgba(109,112,120,1)",
+            "ui-color": "(r:0.427 g:0.439 b:0.471 a:1.000)"
+        }
+    },
+    {
+        "name": "button_cancel_normal",
+        "color": {
+            "r": 204,
+            "g": 94,
+            "b": 80,
+            "a": 1,
+            "color-hex": "#CC5E50 100%",
+            "argb-hex": "#FFCC5E50",
+            "css-rgba": "rgba(204,94,80,1)",
+            "ui-color": "(r:0.800 g:0.369 b:0.314 a:1.000)"
+        }
+    },
+    {
+        "name": "button_cancel_pressed",
+        "color": {
+            "r": 147,
+            "g": 66,
+            "b": 56,
+            "a": 1,
+            "color-hex": "#934238 100%",
+            "argb-hex": "#FF934238",
+            "css-rgba": "rgba(147,66,56,1)",
+            "ui-color": "(r:0.576 g:0.259 b:0.220 a:1.000)"
+        }
+    },
+    {
+        "name": "button_cancel_invalid",
+        "color": {
+            "r": 221,
+            "g": 221,
+            "b": 221,
+            "a": 1,
+            "color-hex": "#DDDDDD 100%",
+            "argb-hex": "#FFDDDDDD",
+            "css-rgba": "rgba(221,221,221,1)",
+            "ui-color": "(r:0.867 g:0.867 b:0.867 a:1.000)"
+        }
+    },
+    {
+        "name": "step_bg_color",
+        "color": {
+            "r": 247,
+            "g": 222,
+            "b": 146,
+            "a": 1,
+            "color-hex": "#F7DE92 100%",
+            "argb-hex": "#FFF7DE92",
+            "css-rgba": "rgba(247,222,146,1)",
+            "ui-color": "(r:0.969 g:0.871 b:0.573 a:1.000)"
+        }
+    },
+    {
+        "name": "step_text_color",
+        "color": {
+            "r": 86,
+            "g": 84,
+            "b": 80,
+            "a": 1,
+            "color-hex": "#565450 100%",
+            "argb-hex": "#FF565450",
+            "css-rgba": "rgba(86,84,80,1)",
+            "ui-color": "(r:0.337 g:0.329 b:0.314 a:1.000)"
+        }
+    },
+    {
+        "name": "progress_bar_border_color",
+        "color": {
+            "r": 50,
+            "g": 54,
+            "b": 65,
+            "a": 1,
+            "color-hex": "#323641 100%",
+            "argb-hex": "#FF323641",
+            "css-rgba": "rgba(50,54,65,1)",
+            "ui-color": "(r:0.196 g:0.212 b:0.255 a:1.000)"
+        }
+    },
+    {
+        "name": "button_ok_normal",
+        "color": {
+            "r": 62,
+            "g": 106,
+            "b": 149,
+            "a": 1,
+            "color-hex": "#3E6A95 100%",
+            "argb-hex": "#FF3E6A95",
+            "css-rgba": "rgba(62,106,149,1)",
+            "ui-color": "(r:0.243 g:0.416 b:0.584 a:1.000)"
+        }
+    },
+    {
+        "name": "button_ok_pressed",
+        "color": {
+            "r": 40,
+            "g": 69,
+            "b": 98,
+            "a": 1,
+            "color-hex": "#284562 100%",
+            "argb-hex": "#FF284562",
+            "css-rgba": "rgba(40,69,98,1)",
+            "ui-color": "(r:0.157 g:0.271 b:0.384 a:1.000)"
+        }
+    },
+    {
+        "name": "button_cancel_invalid",
+        "color": {
+            "r": 221,
+            "g": 221,
+            "b": 221,
+            "a": 1,
+            "color-hex": "#DDDDDD 100%",
+            "argb-hex": "#FFDDDDDD",
+            "css-rgba": "rgba(221,221,221,1)",
+            "ui-color": "(r:0.867 g:0.867 b:0.867 a:1.000)"
+        }
+    },
+    {
+        "name": "button_other_normal",
+        "color": {
+            "r": 41,
+            "g": 71,
+            "b": 100,
+            "a": 1,
+            "color-hex": "#294764 100%",
+            "argb-hex": "#FF294764",
+            "css-rgba": "rgba(41,71,100,1)",
+            "ui-color": "(r:0.161 g:0.278 b:0.392 a:1.000)"
+        }
+    },
+    {
+        "name": "button_other_pressed",
+        "color": {
+            "r": 24,
+            "g": 43,
+            "b": 61,
+            "a": 1,
+            "color-hex": "#182B3D 100%",
+            "argb-hex": "#FF182B3D",
+            "css-rgba": "rgba(24,43,61,1)",
+            "ui-color": "(r:0.094 g:0.169 b:0.239 a:1.000)"
+        }
+    },
+    {
+        "name": "button_other_invalid",
+        "color": {
+            "r": 88,
+            "g": 100,
+            "b": 113,
+            "a": 1,
+            "color-hex": "#586471 100%",
+            "argb-hex": "#FF586471",
+            "css-rgba": "rgba(88,100,113,1)",
+            "ui-color": "(r:0.345 g:0.392 b:0.443 a:1.000)"
+        }
+    },
+    {
+        "name": "step_bg_color",
+        "color": {
+            "r": 247,
+            "g": 222,
+            "b": 146,
+            "a": 1,
+            "color-hex": "#F7DE92 100%",
+            "argb-hex": "#FFF7DE92",
+            "css-rgba": "rgba(247,222,146,1)",
+            "ui-color": "(r:0.969 g:0.871 b:0.573 a:1.000)"
+        }
+    }
+]
